@@ -1,0 +1,1 @@
+Project focused on learning Shell, I/O redirection; special characters; and other man pages
